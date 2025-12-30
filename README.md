@@ -217,24 +217,41 @@ La decisión debe estar documentada en el README.
 
 ---
 
-## 🖼️ 12. Evidencia Visual (Pantallazos)
+## 🖼️ 12. Pantallas Referenciales
 
-Como parte de la entrega final, se deben adjuntar **pantallazos** que evidencien el funcionamiento del reto.
+A continuación se muestran **pantallas referenciales** que sirven como guía visual del resultado esperado del reto.
 
-### Mínimo requerido
-- Login.
-- Home (categorías + Pokémon).
-- Buscador en modal fullscreen.
-- Detalle de Pokémon.
-- Historial de Pokémon visitados.
-- Tema claro y oscuro.
-- Toast del último Pokémon visitado.
+> Estas imágenes son solo de referencia y **no representan un diseño obligatorio**.  
+> El candidato es libre de proponer su propia solución visual siempre que cumpla con los requerimientos funcionales.
 
-### Reglas
-- Los pantallazos pueden incluirse:
-  - En el README, o
-  - En una carpeta `/screenshots`.
-- Se evalúa funcionalidad y claridad, no diseño gráfico.
+### Login
+<!-- Inserta aquí la imagen -->
+<!-- ![Login](screenshots/login.png) -->
+
+### Home
+<!-- Inserta aquí la imagen -->
+<!-- ![Home](screenshots/home.png) -->
+
+### Buscador (Modal Fullscreen)
+<!-- Inserta aquí la imagen -->
+<!-- ![Search Modal](screenshots/search-modal.png) -->
+
+### Detalle de Pokémon
+<!-- Inserta aquí la imagen -->
+<!-- ![Pokemon Detail](screenshots/pokemon-detail.png) -->
+
+### Historial
+<!-- Inserta aquí la imagen -->
+<!-- ![History](screenshots/history.png) -->
+
+### Tema Claro / Oscuro
+<!-- Inserta aquí las imágenes -->
+<!-- ![Light Theme](screenshots/light-theme.png) -->
+<!-- ![Dark Theme](screenshots/dark-theme.png) -->
+
+### Toast Último Pokémon Visitado
+<!-- Inserta aquí la imagen -->
+<!-- ![Toast](screenshots/toast.png) -->
 
 ---
 
