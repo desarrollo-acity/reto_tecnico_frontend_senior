@@ -244,11 +244,6 @@ A continuación se muestran **pantallas referenciales** que sirven como guía vi
 <!-- Inserta aquí la imagen -->
 <!-- ![History](screenshots/history.png) -->
 
-### Tema Claro / Oscuro
-<!-- Inserta aquí las imágenes -->
-<!-- ![Light Theme](screenshots/light-theme.png) -->
-<!-- ![Dark Theme](screenshots/dark-theme.png) -->
-
 ### Toast Último Pokémon Visitado
 <!-- Inserta aquí la imagen -->
 <!-- ![Toast](screenshots/toast.png) -->
