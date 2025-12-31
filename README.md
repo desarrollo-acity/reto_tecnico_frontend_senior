@@ -58,7 +58,7 @@ La solución consta de **3 aplicaciones**:
 ## 🧰 4. Stack y Librerías
 
 ### Requerido
-- React ≥ 18
+- React ≥ 16
 - Vite
 - Module Federation (Microfrontends)
 
@@ -254,7 +254,7 @@ A continuación se muestran **pantallas referenciales** que sirven como guía vi
 
 El candidato debe entregar:
 
-- Repositorio Git (GitHub o GitLab).
+- Código fuente completo en repositorio (GitHub o GitLab).
 - README documentado con:
   - Pasos de instalación.
   - Scripts.
