@@ -224,30 +224,21 @@ A continuación se muestran **pantallas referenciales** que sirven como guía vi
 > Estas imágenes son solo de referencia y **no representan un diseño obligatorio**.  
 > El candidato es libre de proponer su propia solución visual siempre que cumpla con los requerimientos funcionales.
 
-### Login
+### Login | Home | Buscador (Modal Fullscreen) | Toast Último Pokémon Visitado
 <!-- Inserta aquí la imagen -->
 <!-- ![Login](screenshots/login.png) -->
 ![shell3000](https://github.com/user-attachments/assets/9eec060a-bfb3-4e2e-99a3-21cef8ba1881)
 
-### Home
-<!-- Inserta aquí la imagen -->
-<!-- ![Home](screenshots/home.png) -->
-
-### Buscador (Modal Fullscreen)
-<!-- Inserta aquí la imagen -->
-<!-- ![Search Modal](screenshots/search-modal.png) -->
-
 ### Detalle de Pokémon
 <!-- Inserta aquí la imagen -->
 <!-- ![Pokemon Detail](screenshots/pokemon-detail.png) -->
+![MF1](https://github.com/user-attachments/assets/e6fa119a-79af-474e-8eb6-9a85f5616fc8)
 
 ### Historial
 <!-- Inserta aquí la imagen -->
 <!-- ![History](screenshots/history.png) -->
+![MF2](https://github.com/user-attachments/assets/77590b96-f07b-4ba4-888a-27acd0fa16e6)
 
-### Toast Último Pokémon Visitado
-<!-- Inserta aquí la imagen -->
-<!-- ![Toast](screenshots/toast.png) -->
 
 ---
 
