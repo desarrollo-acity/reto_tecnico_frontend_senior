@@ -267,3 +267,5 @@ El candidato debe entregar:
 ## 🎯 14. Resultado Esperado
 
 Una aplicación **Frontend** basada en **Microfrontends**, funcional y bien estructurada, que demuestre experiencia real en **React**, arquitectura modular y buenas prácticas profesionales.
+
+# ✅ ¡Éxitos en el reto!
