@@ -7,7 +7,15 @@ Este reto técnico evalúa tus habilidades en **desarrollo frontend con React**,
 El alcance ha sido diseñado para ser **simple y de rápida implementación**, pero lo suficientemente **robusto** como para evaluar un **perfil senior**, priorizando **calidad técnica**, **claridad arquitectónica** y **criterio de diseño**.
 
 ---
+⏳ Tiempo Máximo de Desarrollo (Obligatorio)
 
+La prueba debe ser desarrollada y entregada en un plazo máximo de:
+
+2 días calendario desde el inicio del reto.
+
+Se evaluará el cumplimiento funcional dentro del tiempo límite, así como la calidad técnica del resultado.
+
+---
 ## 🚀 1. Objetivo del Reto
 
 Implementar una solución **Frontend** basada en **Microfrontends** que incluya:
