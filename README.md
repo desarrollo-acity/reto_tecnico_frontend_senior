@@ -227,6 +227,7 @@ A continuación se muestran **pantallas referenciales** que sirven como guía vi
 ### Login
 <!-- Inserta aquí la imagen -->
 <!-- ![Login](screenshots/login.png) -->
+![shell3000](https://github.com/user-attachments/assets/9eec060a-bfb3-4e2e-99a3-21cef8ba1881)
 
 ### Home
 <!-- Inserta aquí la imagen -->
